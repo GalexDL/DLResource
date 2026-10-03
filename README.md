@@ -8,10 +8,12 @@ Dragalia Lost Model Ref Sheets:
   - https://x.com/DragaliaArchive
   - https://dragaliareferencearchive.tumblr.com/
   - https://bsky.app/profile/dragaliaarchive.bsky.social
+
 Dragalia Lost Life Comics:
   - https://gimothebeast.github.io/dragaliaLifeIndex/index.html?lan=en 
   - https://driftingraft.github.io/dragaliaLifeIndex/index.html?lan=en
   - https://dragalialife.tumblr.com/archive
+
 Dragalia Lost Character Portraits:
   - https://dlportraits.space/
   - https://yvsdrop.github.io/dl-assets/storysprites/
