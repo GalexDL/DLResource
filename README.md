@@ -40,6 +40,7 @@ Dragalia Data Dumps: https://drive.google.com/drive/folders/1kngTCyUx6dSJ7EdY5fn
 Dragalia Lost Audio Data (RaenonX): https://github.com/RaenonX-DL/dragalia-data-audio
 
 Dragalia Lost API Commands (dreadfullydistinct / Ceris): https://dragalia-api-docs.readthedocs.io/en/latest/index.html
+
 Dragalia Lost Story Commands (Duosii /LukeFZ): https://github.com/duosii/dragalia-story-docs
 
 Dragalia Lost Story Scripts:
