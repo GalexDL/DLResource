@@ -67,5 +67,7 @@ Servers
 # Misc. Projects
 
 Dragalia Lost Surtr Translator (sh0wer1ee): https://sh0wer1ee.github.io/DLStories/translator
+
 Dragalia Lost Wyrmprint Maker (sh0wer1ee): https://dlportraits.space/talismandiy.html
+
 Dragalia Lost Dialogue Generator (Chaosspam): https://dldialogue.xyz/
