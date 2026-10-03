@@ -35,8 +35,11 @@ Dragalia Lost Story Viewer (sh0wer1ee): https://sh0wer1ee.github.io/DLStories/
 # Asset Resources
 Dragalia Pre-Processed Asset Dump (RaenonX): https://github.com/RaenonX-DL/dragalia-data-depot
 
+Dragalia Data Dumps: https://drive.google.com/drive/folders/1kngTCyUx6dSJ7EdY5fnRANvu0ZCiavct
+
 Dragalia Lost Audio Data (RaenonX): https://github.com/RaenonX-DL/dragalia-data-audio
 
+Dragalia Lost API Commands (dreadfullydistinct / Ceris): https://dragalia-api-docs.readthedocs.io/en/latest/index.html
 Dragalia Lost Story Commands (Duosii /LukeFZ): https://github.com/duosii/dragalia-story-docs
 
 Dragalia Lost Story Scripts:
@@ -46,16 +49,23 @@ Dragalia Lost Story Scripts:
 Dragalia Lost Model Dump:
 
 
+# Private Servers:
 
-# Misc. Projects
-Private Servers:
-  # Guide
+GreMar's IOS Guide: https://docs.google.com/document/d/1EaioDIddITTX8NrE8dTTDLfDrq2iVEK_5omw7T7kCKs/edit?tab=t.0#heading=h.8bwf4z8nx9k5
+
+DiegOwO's Android Guide: https://docs.google.com/document/d/1SR3WcfaFEkisJ6BsVxLvGwy-2RYazwF9F4XLFi-UV1k/edit?tab=t.0#heading=h.nmdc2cu3vzy2
+
+Servers
+
   - Dawnshard Server: 
       - https://dawnshard.co.uk/
       - https://github.com/SapiensAnatis/Dawnshard
   - Orchis Server:
       - https://orchis.cherrymint.live/
       - https://github.com/CerisWhite/Orchis
+
+# Misc. Projects
+
 Dragalia Lost Surtr Translator (sh0wer1ee): https://sh0wer1ee.github.io/DLStories/translator
 Dragalia Lost Wyrmprint Maker (sh0wer1ee): https://dlportraits.space/talismandiy.html
 Dragalia Lost Dialogue Generator (Chaosspam): https://dldialogue.xyz/
