@@ -3,7 +3,9 @@ List of Dragalia Lost Resources
 
 # General Quick Info Resources:
 Dragalia Lost Wiki: https://dragalialost.wiki/w/Dragalia_Lost_Wiki
+
 Dragalia Lost Model Viewer (dgk3593): https://dgk3593.github.io/dl-model/
+
 Dragalia Lost Model Ref Sheets: 
   - https://x.com/DragaliaArchive
   - https://dragaliareferencearchive.tumblr.com/
