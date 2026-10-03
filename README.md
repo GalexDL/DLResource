@@ -1,7 +1,7 @@
 # DLResource
 List of Dragalia Lost Resources
 
-# General Quick Info Resources:
+# General Quick Resources:
 Dragalia Lost Wiki: https://dragalialost.wiki/w/Dragalia_Lost_Wiki
   
   - Dragalia Lost CGs/Full Art: https://dragalialost.wiki/index.php?title=Category:Full-Screen_Art
