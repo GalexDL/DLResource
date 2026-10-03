@@ -8,12 +8,9 @@ Dragalia Lost Wiki: https://dragalialost.wiki/w/Dragalia_Lost_Wiki
   - Dragalia Lost Promotional Art: https://dragalialost.wiki/w/Category:Promotional_Art
   - Dragalia Lost Background Art: https://dragalialost.wiki/w/Category:Background_Art
 
-Dragalia Lost Model Viewer (dgk3593): https://dgk3593.github.io/dl-model/
-
-Dragalia Lost Model Ref Sheets: 
-  - https://x.com/DragaliaArchive
-  - https://dragaliareferencearchive.tumblr.com/
-  - https://bsky.app/profile/dragaliaarchive.bsky.social
+Dragalia Lost Character Portraits:
+  - https://dlportraits.space/
+  - https://yvsdrop.github.io/dl-assets/storysprites/
 
 Dragalia Lost Life Comics:
   - https://gimothebeast.github.io/dragaliaLifeIndex/index.html?lan=en 
@@ -22,10 +19,12 @@ Dragalia Lost Life Comics:
 
 Dragalia Lost Minis: https://drive.google.com/drive/folders/1sJuItJlSPuHngJmLu7Pz3VByvNXfEwWu
 
-Dragalia Lost Character Portraits:
-  - https://dlportraits.space/
-  - https://yvsdrop.github.io/dl-assets/storysprites/
+Dragalia Lost Model Viewer (dgk3593): https://dgk3593.github.io/dl-model/
 
+Dragalia Lost Model Ref Sheets: 
+  - https://x.com/DragaliaArchive
+  - https://dragaliareferencearchive.tumblr.com/
+  - https://bsky.app/profile/dragaliaarchive.bsky.social
 
 
 # Asset Resources
