@@ -29,6 +29,8 @@ Dragalia Lost Character Portraits:
 
 
 # Asset Resources
+Dragalia Pre-Processed Asset Dump (RaenonX): https://github.com/RaenonX-DL/dragalia-data-depot
+
 Dragalia Lost Audio Data (RaenonX): https://github.com/RaenonX-DL/dragalia-data-audio
 
 Dragalia Lost Story Commands (Duosii /LukeFZ): https://github.com/duosii/dragalia-story-docs
@@ -37,5 +39,14 @@ Dragalia Lost Story Scripts:
 
 Dragalia Lost Model Dump:
 
+
+
 # Misc. Projects
-Dragalia Lost Dialogue Generator (chaosspam): https://dldialogue.xyz/
+Private Servers:
+  - Dawnshard Server: 
+      - https://dawnshard.co.uk/
+      - https://github.com/SapiensAnatis/Dawnshard
+  - Orchis Server:
+      - https://orchis.cherrymint.live/
+      - https://github.com/CerisWhite/Orchis
+Dragalia Lost Dialogue Generator (Chaosspam): https://dldialogue.xyz/
