@@ -40,6 +40,8 @@ Dragalia Lost Audio Data (RaenonX): https://github.com/RaenonX-DL/dragalia-data-
 Dragalia Lost Story Commands (Duosii /LukeFZ): https://github.com/duosii/dragalia-story-docs
 
 Dragalia Lost Story Scripts:
+  - https://github.com/RaenonX-DL/dragalia-data-depot/tree/main/assets/_gluonresources/resources/story
+  - https://github.com/sh0wer1ee/DLStories
 
 Dragalia Lost Model Dump:
 
