@@ -22,6 +22,7 @@ Dragalia Lost Character Portraits:
 Dragalia Lost Audio Data (RaenonX): https://github.com/RaenonX-DL/dragalia-data-audio
 
 Dragalia Lost Story Commands (Duosii /LukeFZ): https://github.com/duosii/dragalia-story-docs
+
 Dragalia Lost Story Scripts:
 
 # Misc. Projects
