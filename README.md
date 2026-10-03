@@ -30,6 +30,8 @@ Dragalia Lost Website Archive:
 
 Dragalia Lost Twitter Archive:
 
+Dragalia Lost Art Books:
+
 Dragalia Lost Story Viewer (sh0wer1ee): https://sh0wer1ee.github.io/DLStories/
 
 # Asset Resources
@@ -46,6 +48,8 @@ Dragalia Lost Story Commands (Duosii /LukeFZ): https://github.com/duosii/dragali
 Dragalia Lost Story Scripts:
   - https://github.com/RaenonX-DL/dragalia-data-depot/tree/main/assets/_gluonresources/resources/story
   - https://github.com/sh0wer1ee/DLStories
+
+Dragalia Lost Song Collection:
 
 Dragalia Lost Model Dump:
 
