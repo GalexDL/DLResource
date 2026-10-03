@@ -26,6 +26,9 @@ Dragalia Lost Model Ref Sheets:
   - https://dragaliareferencearchive.tumblr.com/
   - https://bsky.app/profile/dragaliaarchive.bsky.social
 
+Dragalia Website Archive:
+
+Dragalia Twitter Archive:
 
 # Asset Resources
 Dragalia Pre-Processed Asset Dump (RaenonX): https://github.com/RaenonX-DL/dragalia-data-depot
