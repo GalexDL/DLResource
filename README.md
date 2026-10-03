@@ -49,7 +49,7 @@ Dragalia Lost Model Dump:
 
 # Misc. Projects
 Private Servers:
-  #Guide
+  # Guide
   - Dawnshard Server: 
       - https://dawnshard.co.uk/
       - https://github.com/SapiensAnatis/Dawnshard
